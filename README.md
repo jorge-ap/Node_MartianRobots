@@ -1,5 +1,5 @@
 # Martian Robots
-Welcome to the martian robots' game!
+Welcome to the Martian robots' game!
 
 ## Index
 
@@ -24,9 +24,12 @@ Welcome to the martian robots' game!
  
 ## How to run it <a name = "howTo"></a>
 ### Prerequisites <a name = "prereq"></a>
-To run it, you need *NodeJS*. If you don't have it, you can install it here [NodeJS](https://nodejs.dev/)
+To run it, you need *NodeJS*. If you don't have it, you can install it here [Node.js](https://nodejs.org/es/download/)
+It is also possible open it on IntelliJ IDEA or Visual Studio Code
 ### Procedure <a name = "procedure"></a>
-To run it, regardless the OS, you need to locate the project, open the *program* folder it and execute the command *node martianRobots.js*
+To run it, regardless the OS, you need to locate the project, open the *program* folder and execute the commands:
+1. `npm install`
+2. `node martianRobots.js`
 
 ![image](https://user-images.githubusercontent.com/61882277/131372204-13cb238a-cec3-43b4-b8b5-615a5dda1d85.png)
 
